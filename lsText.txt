@@ -1,0 +1,6 @@
+total 16
+drwxrwxr-x 3 stephan stephan 4096 Dec  3 16:41 .
+-rw-rw-r-- 1 stephan stephan    0 Dec  3 16:41 lsText.txt
+drwxrwxr-x 8 stephan stephan 4096 Dec  3 16:40 .git
+-rw-rw-r-- 1 stephan stephan  109 Dec  3 16:36 README.md
+drwxrwxr-x 3 stephan stephan 4096 Dec  3 16:36 ..
