@@ -1,0 +1,7 @@
+total 20
+drwxrwxr-x 3 stephan stephan 4096 Dec  4 14:20 .
+-rw-rw-r-- 1 stephan stephan    0 Dec  4 14:20 myNwFile.txt
+drwxrwxr-x 8 stephan stephan 4096 Dec  4 14:18 .git
+-rw-rw-r-- 1 stephan stephan  305 Dec  4 14:18 lsText.txt
+drwxrwxr-x 4 stephan stephan 4096 Dec  4 14:01 ..
+-rw-rw-r-- 1 stephan stephan  109 Dec  3 16:36 README.md
